@@ -3,7 +3,7 @@
   "symbol": "SCUMBAGS",
   "description": "A generative collection of 3,000 Unique Money Bag Characters",
   "seller_fee_basis_points": 1000,
-  "image": "https://www.scumbags.io/wp-content/uploads/2022/02/2129-REPLACE.png",
+  "image": "https://raw.githubusercontent.com/BHALEYART/scammed-bags-fix/main/2129%20REPLACE.png",
   "external_url": "http://scumbags.io/",
   "edition": 2129,
   "attributes": [
@@ -15,7 +15,7 @@
   "properties": {
     "files": [
       {
-        "uri": "image.png",
+        "uri": "https://raw.githubusercontent.com/BHALEYART/scammed-bags-fix/main/2129%20REPLACE.png",
         "type": "image/png"
       }
     ],

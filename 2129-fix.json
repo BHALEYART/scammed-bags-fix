@@ -1,0 +1,42 @@
+{
+  "name": "SCUMBAG$ #2129",
+  "symbol": "SCUMBAGS",
+  "description": "A generative collection of 3,000 Unique Money Bag Characters",
+  "seller_fee_basis_points": 1000,
+  "image": "https://www.scumbags.io/wp-content/uploads/2022/02/2129-REPLACE.png",
+  "external_url": "http://scumbags.io/",
+  "edition": 2129,
+  "attributes": [
+    {
+      "trait_type": "STOLEN",
+      "value": "THIS NFT WAS STOLEN FROM A SCUMBAG$ MEMBER"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "image.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "4ejehx7PJVYpLcfivsshBTYsnvr1ni9TPHZGcCkRKBQb",
+        "share": 65
+      },
+      {
+        "address": "9j3pc3gtBDFc8nNPNHjKrVfVewfxbrFm4doVwFoVP5Bu",
+        "share": 25
+      },
+      {
+        "address": "HN2VxERebRDfAL8S8WCHW96mfNY6XpTvbqDiuLpckmLm",
+        "share": 5
+      },
+      {
+        "address": "2L5XkJdPfhsetVCvdSuxrS9bW73fAbBrsNJuTJxA75C3",
+        "share": 5
+      }
+    ]
+  }
+}

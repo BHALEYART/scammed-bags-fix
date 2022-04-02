@@ -1,0 +1,58 @@
+{
+    "name": "Sol Airdrop Pass #573",
+    "symbol": "SADP",
+    "description": "A membership pass token for Solana users to receive elite airdrops! Animated .gif files for NFT can be found at the link below.",
+    "seller_fee_basis_points": 2000,
+    "image": "https://www.arweave.net/MNeK-XjPqHfSdFmgUq2npxbD086W6aLXuq64pSm8OsQ?ext=png",
+    "external_url": "https://solairdroppass.com/gif-link/",
+    "edition": 573,
+    "attributes": [
+      {
+        "trait_type": "Card",
+        "value": "9"
+      },
+      {
+        "trait_type": "DNA1",
+        "value": "1"
+      },
+      {
+        "trait_type": "DNA2",
+        "value": "10"
+      },
+      {
+        "trait_type": "DNA3",
+        "value": "10"
+      },
+      {
+        "trait_type": "DNA4",
+        "value": "3"
+      },
+      {
+        "trait_type": "DNA5",
+        "value": "6"
+      }
+    ],
+    "properties": {
+      "files": [
+        {
+          "uri": "https://www.arweave.net/MNeK-XjPqHfSdFmgUq2npxbD086W6aLXuq64pSm8OsQ?ext=png",
+          "type": "image/png"
+        }
+      ],
+      "category": "image",
+      "creators": [
+        {
+          "address": "GetKWWYzB2CGXZ3dRWMiy22rFKB7KnkboN5uNRzq4MDg",
+          "share": 30
+        },
+        {
+          "address": "4ejehx7PJVYpLcfivsshBTYsnvr1ni9TPHZGcCkRKBQb",
+          "share": 30
+        },
+        {
+          "address": "3JQaVvNVUwoFRM5SPjbVrGdtx7fRvBBcXL8gnWXfENmb",
+          "share": 40
+        }
+      ]
+    }
+  }

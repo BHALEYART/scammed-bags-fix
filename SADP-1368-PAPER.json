@@ -1,0 +1,38 @@
+{
+    "name": "Sol Airdrop Pass #1368",
+    "symbol": "SADP",
+    "description": "A membership pass token for Solana users to receive elite airdrops! Animated .gif files for NFT can be found at the link below.",
+    "seller_fee_basis_points": 2000,
+    "image": "https://raw.githubusercontent.com/BHALEYART/scammed-bags-fix/main/olympics-slap.gif",
+    "external_url": "https://solairdroppass.com/gif-link/",
+    "edition": 1368,
+    "attributes": [
+      {
+        "trait_type": "PaperHand",
+        "value": "Delist Idiot"
+      }
+    ],
+    "properties": {
+      "files": [
+        {
+          "uri": "https://raw.githubusercontent.com/BHALEYART/scammed-bags-fix/main/olympics-slap.gif",
+          "type": "image/gif"
+        }
+      ],
+      "category": "image",
+      "creators": [
+        {
+          "address": "GetKWWYzB2CGXZ3dRWMiy22rFKB7KnkboN5uNRzq4MDg",
+          "share": 30
+        },
+        {
+          "address": "4ejehx7PJVYpLcfivsshBTYsnvr1ni9TPHZGcCkRKBQb",
+          "share": 30
+        },
+        {
+          "address": "3JQaVvNVUwoFRM5SPjbVrGdtx7fRvBBcXL8gnWXfENmb",
+          "share": 40
+        }
+      ]
+    }
+  }

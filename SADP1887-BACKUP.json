@@ -1,9 +1,4 @@
 {
-  "name": "Sol Airdrop Pass #1887",
-  "description": "A membership pass token for Solana users to receive elite airdrops! Animated .gif files for NFT can be found at the link below.",
-  "image": "https://www.arweave.net/4YyWxP5toA3fJeCqgKPmq6zOPdOtRXFZypST-IjN1bA?ext=png",
-  "external_url": "https://solairdroppass.com/gif-link/",
-  "origin": {
     "name": "Sol Airdrop Pass #1887",
     "symbol": "SADP",
     "description": "A membership pass token for Solana users to receive elite airdrops! Animated .gif files for NFT can be found at the link below.",
@@ -61,4 +56,3 @@
       ]
     }
   }
-}

@@ -1,0 +1,42 @@
+{
+  "name": "PH-Shield",
+  "symbol": "SCUMBAGS",
+  "description": "This Scumbag$ token has been flagged by the Paper Hand Shield, and will be permanently removed from the collection.",
+  "seller_fee_basis_points": 1000,
+  "image": "https://raw.githubusercontent.com/BHALEYART/scammed-bags-fix/main/PH-SHIELD.png",
+  "external_url": "http://scumbags.io/",
+  "edition": -0,
+  "attributes": [
+    {
+      "trait_type": "Paper Hand",
+      "value": "Token Marked for Burn"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "https://raw.githubusercontent.com/BHALEYART/scammed-bags-fix/main/PH-SHIELD.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "4ejehx7PJVYpLcfivsshBTYsnvr1ni9TPHZGcCkRKBQb",
+        "share": 65
+      },
+      {
+        "address": "9j3pc3gtBDFc8nNPNHjKrVfVewfxbrFm4doVwFoVP5Bu",
+        "share": 25
+      },
+      {
+        "address": "HN2VxERebRDfAL8S8WCHW96mfNY6XpTvbqDiuLpckmLm",
+        "share": 5
+      },
+      {
+        "address": "2L5XkJdPfhsetVCvdSuxrS9bW73fAbBrsNJuTJxA75C3",
+        "share": 5
+      }
+    ]
+  }
+}

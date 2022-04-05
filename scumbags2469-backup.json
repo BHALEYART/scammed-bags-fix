@@ -1,0 +1,78 @@
+{
+  "name": "SCUMBAG$ #2469",
+  "symbol": "SCUMBAGS",
+  "description": "A generative collection of 3,000 Unique Money Bag Characters",
+  "seller_fee_basis_points": 1000,
+  "image": "https://raw.githubusercontent.com/BHALEYART/scammed-bags-fix/main/2469.png",
+  "external_url": "http://scumbags.io/",
+  "edition": 2469,
+  "attributes": [
+    {
+      "trait_type": "Bg",
+      "value": "OrangeBrick"
+    },
+    {
+      "trait_type": "Shadow",
+      "value": "Shadow"
+    },
+    {
+      "trait_type": "Glow",
+      "value": "None"
+    },
+    {
+      "trait_type": "Bag",
+      "value": "Teal"
+    },
+    {
+      "trait_type": "Texture",
+      "value": "None"
+    },
+    {
+      "trait_type": "Symbol",
+      "value": "Black"
+    },
+    {
+      "trait_type": "Splat",
+      "value": "SPLAT RED"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "MONSTER WHITE"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "FemalePink"
+    },
+    {
+      "trait_type": "Prop",
+      "value": "KNIFE"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "https://raw.githubusercontent.com/BHALEYART/scammed-bags-fix/main/2469.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "4ejehx7PJVYpLcfivsshBTYsnvr1ni9TPHZGcCkRKBQb",
+        "share": 65
+      },
+      {
+        "address": "9j3pc3gtBDFc8nNPNHjKrVfVewfxbrFm4doVwFoVP5Bu",
+        "share": 25
+      },
+      {
+        "address": "HN2VxERebRDfAL8S8WCHW96mfNY6XpTvbqDiuLpckmLm",
+        "share": 5
+      },
+      {
+        "address": "2L5XkJdPfhsetVCvdSuxrS9bW73fAbBrsNJuTJxA75C3",
+        "share": 5
+      }
+    ]
+  }
+}

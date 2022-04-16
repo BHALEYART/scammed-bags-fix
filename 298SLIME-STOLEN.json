@@ -1,0 +1,30 @@
+{
+  "name": "STOLEN NFT",
+  "symbol": "STOLEN NFT",
+  "description": "300 Unique VIP Tokens for the SCUMBAG$ Collection. Used in unique Mutation Utility.",
+  "seller_fee_basis_points": 2000,
+  "image": "https://raw.githubusercontent.com/BHALEYART/scammed-bags-fix/main/SLIME298-STOLEN.png",
+  "external_url": "https://slimeballs.xyz",
+  "edition": 298,
+  "attributes": [
+    {
+      "trait_type": "STOLEN BY:",
+      "value": "Bstvi4PGwxSeVx6e4oZ47BNMpfJR4oBA4ywcxYQKouAK"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "https://raw.githubusercontent.com/BHALEYART/scammed-bags-fix/main/SLIME298-STOLEN.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "4ejehx7PJVYpLcfivsshBTYsnvr1ni9TPHZGcCkRKBQb",
+        "share": 100
+      }
+    ]
+  }
+}

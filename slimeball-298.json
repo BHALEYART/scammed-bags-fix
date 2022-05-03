@@ -3,7 +3,7 @@
   "symbol": "Slimeballs",
   "description": "300 Unique VIP Tokens for the SCUMBAG$ Collection. Used in unique Mutation Utility.",
   "seller_fee_basis_points": 2000,
-  "image": "image.png",
+  "image": "https://raw.githubusercontent.com/BHALEYART/scammed-bags-fix/main/298.png",
   "external_url": "https://slimeballs.xyz",
   "edition": 298,
   "attributes": [
@@ -47,7 +47,7 @@
   "properties": {
     "files": [
       {
-        "uri": "image.png",
+        "uri": "https://raw.githubusercontent.com/BHALEYART/scammed-bags-fix/main/298.png",
         "type": "image/png"
       }
     ],
